@@ -1,0 +1,2 @@
+n1 = int(input('Digite um numero: '))
+print('{}X1 = {}\n{}X2 = {}\n{}X3 = {}\n{}X4 = {}\n{}X5 = {}\n{}X6 = {}\n{}X7 = {}\n{}X8 = {}\n{}X9 = {}\n{}X10 = {}\n'.format(n1,n1*1,n1,n1*2,n1,n1*3,n1,n1*4,n1,n1*5,n1,n1*6,n1,n1*7,n1,n1*8,n1,n1*9,n1,n1*10,))
